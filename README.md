@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @techboy_6767
+- 👋 Hi, I’m @techboy_Aarav
 - 👀 I’m interested in HTML 5
-- 🌱 I’m currently learning how to do html
+- 🌱 I’m currently learning HTML, C++, C, Python and javascript
 - 📫 How to reach me through mail id demo.demo47@outlook.com   ,   techboy_aarav@outlook.com
 - ⚡ Fun fact: I am 11 years old
